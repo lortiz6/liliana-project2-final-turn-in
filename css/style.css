@@ -141,7 +141,7 @@ img {
 	animation: animate 20s linear infinite;
 	border-radius: 5px;
 	z-index: 140;
-  box-shadow: 0 0 5px #e9c7dd, 0 0 7px #e8dce8, 0 0 9px #ee8337, 0 0 11px #f62525, 0 0 13px #ea5dec, 0 0 15px #b805ff, 0 0 17px #ff338b, 0 0 19px #f178d7;
+  box-shadow: 0 0 5px #e9c7dd, 0 0 7px #e8dce8, 0 0 9px #ff46fc, 0 0 11px hsl(297, 92%, 55%), 0 0 13px #ea5dec, 0 0 15px #b805ff, 0 0 17px #ff338b, 0 0 19px #f178d7;
 }
 .glow-border2 {
   width: fit-content;
