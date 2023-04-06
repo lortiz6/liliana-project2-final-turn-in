@@ -103,9 +103,10 @@ strong{
   padding: 30px 50px;
   background: #fff;
   cursor: pointer;
-  margin-right: 30px;
+  margin: 0 -5px;
   display: flex;
   justify-content: space-around;
+  padding: 10px;
 }
 .card:hover {
   height: 320px;
