@@ -104,8 +104,6 @@ strong{
   background: #fff;
   cursor: pointer;
   margin-right: 30px;
-  display: flex;
-  grid-template-columns: 1fr 1fr 1fr;
 }
 
 .card:hover {
