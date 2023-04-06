@@ -183,6 +183,18 @@ img {
 	z-index: 140;
   box-shadow: 0 0 5px #fff, 0 0 7px #a2f1ce, 0 0 9px #57f29f, 0 0 11px #1bd46b, 0 0 13px #1af63b, 0 0 15px #20f81c, 0 0 17px #1af625, 0 0 19px #01fc38;
 }
+.glow-border8 {
+	animation: animate 20s linear infinite;
+	border-radius: 20px;
+	z-index: 140;
+  box-shadow: 0 0 5px #fff, 0 0 7px #a2f1ce, 0 0 9px #57f29f, 0 0 11px #1bd46b, 0 0 13px #1af63b, 0 0 15px #20f81c, 0 0 17px #1af625, 0 0 19px #01fc38;
+}
+.glow-border9 {
+	animation: animate 20s linear infinite;
+	border-radius: 20px;
+	z-index: 140;
+  box-shadow: 0 0 5px #fff, 0 0 7px #a2f1ce, 0 0 9px #57f29f, 0 0 11px #1bd46b, 0 0 13px #1af63b, 0 0 15px #20f81c, 0 0 17px #1af625, 0 0 19px #01fc38;
+}
 
 /*resume page*/
 .page2 {
