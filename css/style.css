@@ -113,6 +113,13 @@ strong{
 .card:hover {
   height: 320px;
 }
+.favorite {
+width: 90%;
+margin: o auto;
+overflow: hidden;
+padding: 80px 0;
+max-width: 1200px;
+}
 .imgbox {
   position: relative;
   width: 100%;
@@ -215,7 +222,6 @@ img {
   height: 100vh;
   font-family: system-ui;
 }
-
 .clearfix{
 	clear: both;
 }
