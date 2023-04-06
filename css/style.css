@@ -128,6 +128,7 @@ img {
   transform: translateY(-450px);
   opacity: 0;
   transition: 0.3s;
+  display: flex;
 }
 .card:hover > .content {
   opacity: 1;
