@@ -105,12 +105,6 @@ strong{
   cursor: pointer;
   margin-right: 30px;
   display: block;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 10px;
-  align-items: stretch;
-  width: 90%;
-  margin: 0 auto;
-  justify-content: center;
 }
 
 .card:hover {
