@@ -109,7 +109,6 @@ strong{
   display: flex;
   justify-content: space-around;
   padding: 10px;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-gap: 10px;
 }
 .card:hover {
