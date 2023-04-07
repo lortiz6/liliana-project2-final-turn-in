@@ -122,6 +122,13 @@ overflow: hidden;
 padding: 80px 0;
 max-width: 1200px;
 }
+.favorite2 {
+width: 90%;
+margin: o auto;
+overflow: hidden;
+padding: 80px 0;
+max-width: 1200px;
+}
 .imgbox {
   position: relative;
   width: 100%;
