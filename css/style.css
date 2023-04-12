@@ -106,15 +106,7 @@ strong{
   padding: 2em;
  font-family: 'Viga', sans-serif;
 }
-.nail-container .card {
-  width: 308px;
-  position: relative;
-  height: 400px;
-  background: #f0f0f0;
-  margin: 30px 10px;
-  display: flex;
-  flex-direction: column;
-}
+
 .pet-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
