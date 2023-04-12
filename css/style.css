@@ -107,6 +107,11 @@ strong{
   justify-content: center;
   text-align: center;
 }
+.card {
+  position: relative;
+  width: 300px;
+  height: 200px;
+}
 
 /*resume page*/
 .page2 {
