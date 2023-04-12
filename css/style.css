@@ -161,6 +161,10 @@ img {
   opacity: 0;
   transition: o.3s;
 }
+.card:hover > .content {
+  opacity: 1;
+  transform: translateY(-180px);
+}
 
 /*resume page*/
 .page2 {
