@@ -105,6 +105,16 @@ strong{
   margin: 0 auto;
  font-family: 'Viga', sans-serif; 
 }
+.per-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+  align-items: stretch;
+  background-color: #ffcccf;
+  width: 90%;
+  margin: 0 auto;
+ font-family: 'Viga', sans-serif; 
+}
 .img1 {
   padding: 10px;
   margin: 0 -5px;
