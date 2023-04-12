@@ -95,6 +95,12 @@ strong{
   padding: 2em;
   height: fit-content;
 }
+.img1 {
+  padding: 10px;
+  margin: 0 -5px;
+  justify-content: center;
+  text-align: center;
+}
 
 
 /*resume page*/
