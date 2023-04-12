@@ -129,6 +129,9 @@ strong{
   transform: translateY(-80px);
   z-index: 99;
 }
+img {
+  
+}
 
 /*resume page*/
 .page2 {
