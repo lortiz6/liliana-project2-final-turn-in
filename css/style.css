@@ -106,15 +106,16 @@ strong{
   padding: 2em;
   height: fit-content;
 }
-.per-container {
+.pet-container {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 10px;
-  align-items: stretch;
-  background-color: #ffcccf;
-  width: 90%;
+  grid-area: auto;
+  grid-column-gap: 10px;
+  max-width: 1000px;
   margin: 0 auto;
- font-family: 'Viga', sans-serif; 
+  box-shadow: rgb(0 0 0 / 25%) 0px 10px 25px;
+  width: 100%;
+  padding: 2em;
+  height: fit-content;
 }
 .img1 {
   padding: 10px;
