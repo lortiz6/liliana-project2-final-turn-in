@@ -138,6 +138,8 @@ img {
   padding: 10px 20px;
   text-align: center;
   transform: translateY(-450px);
+  opacity: 0;
+  transition: o.3s;
 }
 
 /*resume page*/
