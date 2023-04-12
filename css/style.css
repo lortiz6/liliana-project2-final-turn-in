@@ -165,6 +165,9 @@ img {
   opacity: 1;
   transform: translateY(-180px);
 }
+.content h2 {
+  color: #7f9ead;
+}
 
 /*resume page*/
 .page2 {
