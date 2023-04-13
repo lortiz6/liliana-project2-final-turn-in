@@ -162,7 +162,7 @@ strong{
   transition: 0.3s ease-in-out;
 }
 .container2 .card:hover{
-  height: 320px;
+  height: 420px;
 }
 .container2 .card .imgBX{
   position: relative;
