@@ -118,7 +118,7 @@ strong{
   margin: 0 auto;
   box-shadow: rgb(0 0 0 / 25%) 0px 10px 25px;
   width: 100%;
-  padding: 8em 2em 8em 2em;
+  padding: 1em 2em 8em 2em;
   height: fit-content;
 }
 .pet-container {
@@ -130,7 +130,7 @@ strong{
   margin: 0 auto;
   box-shadow: rgb(0 0 0 / 25%) 0px 10px 25px;
   width: 100%;
-  padding: 8em 2em 8em 2em;
+  padding: 1em 2em 8em 2em;
   height: fit-content;
 }
 .main2{
@@ -270,7 +270,7 @@ strong{
 	font-weight: 600;
 }
 .p3{
-	color: #7b7b7b;
+	color: black;
 	margin-bottom: -5px;
 }
 .fa{
@@ -284,11 +284,11 @@ strong{
 	padding: 5px;
 }
 .box li span{
-	color: #7b7b7b;
+	color: black;
 }
 .p4{
 	font-size: 14px;
-	color: #7b7b7b;
+	color: black;
 }
 /*memes page*/
 .intro{
